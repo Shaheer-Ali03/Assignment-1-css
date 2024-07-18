@@ -1,0 +1,40 @@
+.main {
+  color: darkblue;
+  background-color: blue;
+}
+p {
+  color: purple;
+  font-size: large;
+}
+.two {
+  background-color: yellow;
+  color: orange;
+}
+.three {
+  background-color: cadetblue;
+}
+a {  color:deeppink;}
+
+.task2{
+  background-color:rgba(190, 0, 63, 0.329);
+color: brown;
+}
+.task2p{
+  color: rgb(88, 61, 61);
+}
+.body2{
+  background-color:rgba(150, 140, 140, 0.384);
+  height:auto;
+}
+.page2 { color: green;
+
+}
+.page1{
+  background-color:rgba(221, 217, 0, 0.466);
+  width: 120px;
+  margin-left: 10px;
+}
+.inner{
+  color: rgba(218, 165, 32, 0.349);
+  background-color:whitesmoke;
+}
